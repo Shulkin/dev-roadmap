@@ -68,14 +68,53 @@
 - [ ] Node.js
 
 ## Развертывание проектов
+Для тестирования и демонстрации веб-приложения может понадобиться развернуть рабочую среду с определенной конфигурацией. В этом нам помогут средства создания виртуальной среды разработки.
+- [ ] Vagrant
+- [ ] Docker
+- [ ] Heroku
 
 ## Язык программирования JavaScript
+Обязательно нужно хорошо знать основы языка JavaScript.
+- [ ] Типы данных
+- [ ] Область видимости переменных и функций
+- [ ] Объекты и прототипное наследование
+- [ ] Замыкания
+- [ ] ECMAScript 2015
+
+Поможет в этом разобраться:
+* [Выразительный JavaScript](http://eloquentjavascript.net)
+* [Современный учебник JavaScript](https://learn.javascript.ru)
 
 ## Язык разметки HTML
+Нужно знать основные теги и разбираться в тенденциях развития HTML5.
+- [ ] Canvas
+- [ ] Shadow DOM
+- [ ] Web Components
+
+Что почитать:
+* [Mozilla Developer Network](https://developer.mozilla.org)
+* [Canvas Tutorial на MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
+* [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom)
+* [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
 
 ## Каскадные таблицы стилей (CSS)
+Нужно понимать основные методологии и подходы к написанию CSS-кода.
+- [ ] [Способы организации CSS-кода](https://habrahabr.ru/post/256109)
+- [ ] [BEM - Block Element Modifier](http://getbem.com)
+- [ ] Media Queries
+
+Что почитать:
+* [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
+* [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 ## Препроцессоры CSS
+Желательно не писать на чистом CSS, а использовать препроцессоры. Это дает возможность использовать в CSS переменные, миксины, математические выражения и т.д.
+- [ ] Sass/Scss
+- [ ] Less
+- [ ] Stylus
+
+Поможет разобраться:
+* [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru)
 
 ## Сборщики проектов
 
