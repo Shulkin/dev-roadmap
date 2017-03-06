@@ -107,6 +107,14 @@
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
 * [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
+## Кросс-браузерная вёрстка
+Нужно уметь обеспечить для проекта поддержку старыми версиями браузеров.
+- [ ] Modernizr
+- [ ] Autoprefixer
+
+Стоит понять:
+* [The Principles Of Cross-Browser CSS Coding](https://www.smashingmagazine.com/2010/06/the-principles-of-cross-browser-css-coding)
+
 ## Препроцессоры CSS
 Желательно не писать на чистом CSS, а использовать препроцессоры. Это дает возможность использовать в CSS переменные, миксины, математические выражения и т.д.
 - [ ] Sass/Scss
@@ -117,8 +125,24 @@
 * [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru)
 
 ## Сборщики проектов
+Небольшие приложения, которые используются для автоматизации рутинных задач в процессе разработки. Например, запуск тестов, конкатенация файлов, препроцессинг CSS и др. На выходе получается готовая сборка проекта.
+- [ ] Grunt
+- [ ] Gulp
+
+Поможет разобраться:
+* [Приятная сборка Frontend проекта](https://habrahabr.ru/post/250569)
+* [Что такое Gulp? Сравнение с Grunt и Webpack](https://www.youtube.com/watch?v=uPk6lQoTThE)
 
 ## CSS фреймворки
+Подключив к проекту CSS фреймворк можно пользоваться предустановленными стилями, элементами и сеткой. Для небольших проектов особенно полезно использовать секту, например Flexbox.
+- [ ] Bootstrap
+- [ ] Foundation
+- [ ] Flexbox
+
+В помощь:
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
+* [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
+* [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox)
 
 ## JavaScript фреймворки
 
