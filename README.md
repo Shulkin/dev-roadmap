@@ -33,7 +33,7 @@
 
 ## Алгоритмы
 Классика. Нужно уметь оценивать сложность алгоритмов и знать где их применять.
-- [ ] Оценка сложности алгоритма O(n)
+- [ ] Оценка сложности алгоритма O(n), Ω(n), Θ(n)
 - [ ] Сортировка
 - [ ] Поиск подстроки в строке
 - [ ] Обход и поиск в структурах данных
@@ -42,7 +42,7 @@
 * [Алгоритмы: построение и анализ. Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн](http://www.ozon.ru/context/detail/id/33769775)
 
 ## Паттерны программирования
-Шаблон проектирования - это повторяемая архитектурная конструкция в коде. Нужно знать какие бывают шаблоны, и какие задачи они решают.
+Шаблон проектирования - это повторяемая архитектурная конструкция в коде. Нужно знать какие бывают шаблоны, и какие задачи они решают. Не стоит бездумно применять шаблоны, нужно понимать где это действительно нужно.
 
 Стоит прочитать:
 * [Приёмы объектно-ориентированного проектирования. Паттерны проектирования. "Банда четырёх": Эрих Гамма, Ричард Хелм, Ральф Джонсон, Джон Влиссидес](http://www.ozon.ru/context/detail/id/2457392/)
@@ -56,9 +56,9 @@
 - [ ] [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ## Базы данных
-Нужно знать принципы работы с базами данных на сервере.
+Нужно знать принципы работы с базами данных. Нужно уметь развернуть базу данных на сервере и уметь выполнять основные операции с данными - вставка, чтение, редактирование, удаление.
 - [ ] Язык запросов SQL
-- [ ] Создание и удаление базы данных, таблицы
+- [ ] Создание и удаление базы данных
 - [ ] JOIN
 - [ ] NoSQL БД (MongoDB)
 
@@ -69,15 +69,25 @@
 
 ## Веб-серверы и способы взаимодействия
 Нужно понимать как работает веб-сервер, как его установить и настроить.
-- [ ] [Что такое веб-сервер?](https://developer.mozilla.org/ru/docs/Learn/Что_такое_веб_сервер)
-- [ ] [Простым языком об HTTP](https://habrahabr.ru/post/215117)
+- [ ] HTTP
 - [ ] Apache
 - [ ] nginx
+
+Читаем:
+* [Что такое веб-сервер?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 
 ## Серверное программирование
 Не надо останавливаться на одном языке программирования. Для веб-разработки хорошим вариантом будет знать пару скриптовых языков (Python, Ruby) или использовать JavaScript на серверной платформе Node.js.
 - [ ] Python
 - [ ] Node.js
+
+Поможет в этом:
+* [NodeSchool](https://nodeschool.io)
+* [You Don’t Know Node](https://webapplog.com/you-dont-know-node)
+* [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
+* [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
+* [Python. Быстрый старт](https://geekbrains.ru/courses/105)
+* [Full Stack Python](https://www.fullstackpython.com)
 
 ## Развертывание проектов
 Для тестирования и демонстрации веб-приложения может понадобиться развернуть рабочую среду с определенной конфигурацией. В этом нам помогут средства создания виртуальной среды разработки.
@@ -96,6 +106,7 @@
 Поможет в этом разобраться:
 * [Выразительный JavaScript](http://eloquentjavascript.net)
 * [Современный учебник JavaScript](https://learn.javascript.ru)
+* [Accelerated JavaScript Training](https://www.udemy.com/javascript-bootcamp-2016)
 
 ## Язык разметки HTML
 Нужно знать основные теги и разбираться в тенденциях развития HTML5.
@@ -118,6 +129,7 @@
 Что почитать:
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
 * [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3)
 
 ## Кросс-браузерная вёрстка
 Нужно уметь обеспечить для проекта поддержку старыми версиями браузеров.
@@ -183,5 +195,6 @@
 * [Udemy](https://www.udemy.com)
 * [Coursera](https://ru.coursera.org)
 * [Codecademy](https://www.codecademy.com)
+* [Code School](https://www.codeschool.com)
 * [Khan Academy](https://www.khanacademy.org)
 * [Learn Code The Hard Way](https://learncodethehardway.org)
