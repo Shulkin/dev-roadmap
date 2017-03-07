@@ -95,6 +95,13 @@
 - [ ] Docker
 - [ ] Heroku
 
+Поможет разобраться:
+* [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
+* [How to use Vagrant on Windows](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-on-windows.html)
+* [Vagrant для малышей, или как на Windows легко получить настроенный сервер для разработки веб-приложений](https://habrahabr.ru/post/251529)
+* [Docker Training](http://training.docker.com)
+* [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+
 ## Язык программирования JavaScript
 Обязательно нужно хорошо знать основы языка JavaScript.
 - [ ] Типы данных
