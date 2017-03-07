@@ -51,8 +51,8 @@
 
 ## Система управления версиями
 Нужно уметь работать с Git. Создавать репозитории, сливать ветки и разрешать конфликты.
-- [ ] [Git. Быстрый старт](https://geekbrains.ru/courses/66)
 - [ ] [Pro Git](https://git-scm.com/book/ru/v2)
+- [ ] [Git. Быстрый старт](https://geekbrains.ru/courses/66)
 - [ ] [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ## Базы данных
@@ -61,6 +61,11 @@
 - [ ] Создание и удаление базы данных, таблицы
 - [ ] JOIN
 - [ ] NoSQL БД (MongoDB)
+
+Поможет в этом:
+* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+* [Codeacademy. Learn SQL](https://www.codecademy.com/learn/learn-sql)
+* [MongoDB University](https://university.mongodb.com)
 
 ## Веб-серверы и способы взаимодействия
 Нужно понимать как работает веб-сервер, как его установить и настроить.
@@ -172,3 +177,11 @@
 Паттерн "Модуль" - лучший способ изолировать часть логики приложения на JavaScript от глобального контекста. Нужно понимать как это устроено и уметь пользоваться инструментами, которые управляют зависимостями в модулях.
 - [ ] RequireJS
 - [ ] webpack
+
+## Обучение
+Ссылки на онлайн-курсы и платформы для обучения.
+* [Udemy](https://www.udemy.com)
+* [Coursera](https://ru.coursera.org)
+* [Codecademy](https://www.codecademy.com)
+* [Khan Academy](https://www.khanacademy.org)
+* [Learn Code The Hard Way](https://learncodethehardway.org)
