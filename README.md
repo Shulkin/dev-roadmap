@@ -100,6 +100,7 @@
 * [How to use Vagrant on Windows](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-on-windows.html)
 * [Vagrant для малышей, или как на Windows легко получить настроенный сервер для разработки веб-приложений](https://habrahabr.ru/post/251529)
 * [Docker Training](http://training.docker.com)
+* [The Heroku Hacker's Guide](http://www.theherokuhackersguide.com)
 * [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
 ## Язык программирования JavaScript
@@ -116,7 +117,7 @@
 * [Accelerated JavaScript Training](https://www.udemy.com/javascript-bootcamp-2016)
 
 ## Язык разметки HTML
-Нужно знать основные теги и разбираться в тенденциях развития HTML5.
+Нужно знать основные теги и разбираться в тенденциях развития HTML.
 - [ ] Canvas
 - [ ] Shadow DOM
 - [ ] Web Components
@@ -129,12 +130,16 @@
 
 ## Каскадные таблицы стилей (CSS)
 Нужно понимать основные методологии и подходы к написанию CSS-кода.
-- [ ] [Способы организации CSS-кода](https://habrahabr.ru/post/256109)
-- [ ] [BEM - Block Element Modifier](http://getbem.com)
+- [ ] CSS3
+- [ ] CSS-модули
 - [ ] Media Queries
+- [ ] BEM - Block Element Modifier
 
 Что почитать:
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
+* [Способы организации CSS-кода](https://habrahabr.ru/post/256109)
+* [CSS Modules](https://glenmaddern.com/articles/css-modules)
+* [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need)
 * [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3)
 
@@ -148,9 +153,9 @@
 
 ## Препроцессоры CSS
 Желательно не писать на чистом CSS, а использовать препроцессоры. Это дает возможность использовать в CSS переменные, миксины, математические выражения и т.д.
-- [ ] Sass/Scss
 - [ ] Less
 - [ ] Stylus
+- [ ] Sass/Scss
 
 Поможет разобраться:
 * [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru)
@@ -177,14 +182,21 @@
 
 ## Ajax и кросс-доменные запросы
 Для обмена данными с другими сервисами на стороне клиента пригодится технология асинхронных запросов. Нужно понимать как работают кросс-доменные запросы и какие у них ограничения.
+- [ ] XMLHttpRequest
+- [ ] CORS
 
 Разобраться:
 * [HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 
 ## JavaScript библиотеки
 Нужно уметь работать с самыми распространенными библиотеками для JavaScript.
-- [] jQuery
-- [] Underscore
+- [ ] jQuery
+- [ ] Underscore
+- [ ] Babel
+
+Поможет разобраться:
+* [Try jQuery](https://www.codeschool.com/courses/try-jquery)
+* [Learn jQuery](http://learn.jquery.com)
 
 ## JavaScript фреймворки
 Нужно понимать основные принципы работы MV* фреймворков и уметь работать с наиболее распространенными. Необязательно учить все, можно выбрать один и специализироваться на нем. Про остальные нужно просто знать и понимать как они работают.
@@ -192,10 +204,21 @@
 - [ ] Backbone
 - [ ] React
 
+Почитать:
+* [Angular Style Guide](https://github.com/johnpapa/angular-styleguide)
+* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
+* [A complete guide for learning backbone js](http://codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js)
+* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+
 ## Разделение кода JavaScript на модули
 Паттерн "Модуль" - лучший способ изолировать часть логики приложения на JavaScript от глобального контекста. Нужно понимать как это устроено и уметь пользоваться инструментами, которые управляют зависимостями в модулях.
 - [ ] RequireJS
 - [ ] webpack
+
+Поможет понять:
+* [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern)
+* [Using Angular 1.x With ES6 and Webpack](http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack)
+* [Getting Started with Webpack: Module Bundling Magic](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
 
 ## Обучение
 Ссылки на онлайн-курсы и платформы для обучения.
@@ -205,3 +228,12 @@
 * [Code School](https://www.codeschool.com)
 * [Khan Academy](https://www.khanacademy.org)
 * [Learn Code The Hard Way](https://learncodethehardway.org)
+
+## Другие списки для веб-разработчика
+Здесь будут ресурсы для начинающего веб-разработчика, которые я использовал при составлении этой карты. Тут вы увидите карты развития от других людей, check-lists, awesome-списки и др.
+* [Frontend-разработчики должны быть в теме всего](https://habrahabr.ru/post/306716)
+* [Чек-лист: что нужно знать фронтенд-разработчику](https://livetyping.com/ru/blog/front-end-dev-requirements)
+* [Необходимый минимум для фронтенд-разработчика](http://frontender.info/a-baseline-for-front-end-developers)
+* [Карта развития веб-разработчика](https://github.com/zualex/devmap)
+* [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+* [Manually curated collection of resources for frontend web developers](https://github.com/dypsilon/frontend-dev-bookmarks)
