@@ -9,14 +9,16 @@
 - [ ] Domain Name Service (DNS)
 
 Поможет в этом:
-* [Операционные системы](https://ru.hexlet.io/courses/operating_systems)
+* [Курс: Операционные системы](https://ru.hexlet.io/courses/operating_systems)
 * [How the Internet Works for Developers - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ&index=14&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
 * [How the Internet Works for Developers - Servers & Scaling](https://www.youtube.com/watch?v=FTAPjr7vgxE&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&index=21)
 
 ## Linux и работа с командной строкой
 Нужно уметь работать в UNIX-подобных ОС и свободно пользоваться консолью.
-- [ ] [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
-- [ ] [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
+
+Поможет в этом:
+* [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
+* [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
 
 ## Структуры данных
 Нужно знать основные структуры данных и различия между ними.
@@ -51,9 +53,11 @@
 
 ## Система управления версиями
 Нужно уметь работать с Git. Создавать репозитории, сливать ветки и разрешать конфликты.
-- [ ] [Pro Git](https://git-scm.com/book/ru/v2)
-- [ ] [Git. Быстрый старт](https://geekbrains.ru/courses/66)
-- [ ] [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+
+Поможет в этом:
+* [Pro Git](https://git-scm.com/book/ru/v2)
+* [Git. Быстрый старт](https://geekbrains.ru/courses/66)
+* [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ## Базы данных
 Нужно знать принципы работы с базами данных. Нужно уметь развернуть базу данных на сервере и выполнять основные операции с данными - вставка, чтение, редактирование, удаление.
