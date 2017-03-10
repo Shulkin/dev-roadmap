@@ -95,6 +95,7 @@
 * [You Don’t Know Node](https://webapplog.com/you-dont-know-node)
 * [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 * [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
+* [Скринкаст Node.js](https://learn.javascript.ru/screencast/nodejs)
 * [Python. Быстрый старт](https://geekbrains.ru/courses/105)
 * [Full Stack Python](https://www.fullstackpython.com)
 
@@ -176,6 +177,7 @@
 - [ ] Gulp
 
 Поможет разобраться:
+* [Скринкаст Gulp](https://learn.javascript.ru/screencast/gulp)
 * [Приятная сборка Frontend проекта](https://habrahabr.ru/post/250569)
 * [Что такое Gulp? Сравнение с Grunt и Webpack](https://www.youtube.com/watch?v=uPk6lQoTThE)
 
@@ -230,8 +232,9 @@
 
 Поможет понять:
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern)
+* [Gulp + Browserify: The Everything Post](https://www.viget.com/articles/gulp-browserify-starter-faq)
 * [Using Angular 1.x With ES6 and Webpack](http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack)
-* [Getting Started with Webpack: Module Bundling Magic](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
+* [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack)
 
 ## Обучение
 Ссылки на онлайн-курсы и платформы для обучения.
