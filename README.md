@@ -124,6 +124,7 @@
 Поможет в этом разобраться:
 * [Выразительный JavaScript](http://eloquentjavascript.net)
 * [Современный учебник JavaScript](https://learn.javascript.ru)
+* [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Accelerated JavaScript Training](https://www.udemy.com/javascript-bootcamp-2016)
 * [JavaScript для профессиональных веб-разработчиков](https://www.ozon.ru/context/detail/id/31257038)
 
