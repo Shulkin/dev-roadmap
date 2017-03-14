@@ -162,6 +162,7 @@
 
 Стоит понять:
 * [The Principles Of Cross-Browser CSS Coding](https://www.smashingmagazine.com/2010/06/the-principles-of-cross-browser-css-coding)
+* [Autoprefixer: A Postprocessor for Dealing with Vendor Prefixes in the Best Possible Way](https://css-tricks.com/autoprefixer)
 
 ## Препроцессоры CSS
 Желательно не писать на чистом CSS, а использовать препроцессоры. Это дает возможность использовать в CSS переменные, миксины, математические выражения и т.д.
@@ -170,7 +171,10 @@
 - [ ] Sass/Scss
 
 Поможет разобраться:
+* [The Sass Way](http://www.thesassway.com)
 * [Руководство по написанию разумного, поддерживаемого и масштабируемого Sass](https://sass-guidelin.es/ru)
+* [Aesthetic Sass 1: Architecture and Style Organization](https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization)
+* [Aesthetic Sass 2: Colors and Palettes](https://scotch.io/tutorials/aesthetic-sass-2-colors)
 
 ## Сборщики проектов
 Небольшие приложения, которые используются для автоматизации рутинных задач в процессе разработки. Например, запуск тестов, конкатенация файлов, препроцессинг CSS и др. На выходе получается готовая сборка проекта.
