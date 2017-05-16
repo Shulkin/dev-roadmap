@@ -9,15 +9,14 @@
 - [ ] Domain Name Service (DNS)
 
 Поможет в этом:
-* [Курс: Операционные системы](https://ru.hexlet.io/courses/operating_systems)
-* [How the Internet Works for Developers - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ&index=14&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc)
-* [How the Internet Works for Developers - Servers & Scaling](https://www.youtube.com/watch?v=FTAPjr7vgxE&list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc&index=21)
+- [x] [Курс: Операционные системы](https://ru.hexlet.io/courses/operating_systems)
+- [ ] [Курс: Internet 101. How the internet works](https://www.khanacademy.org/computing/computer-science/internet-intro)
 
 ## Linux и работа с командной строкой
 Нужно уметь работать в UNIX-подобных ОС и свободно пользоваться консолью.
 
 Поможет в этом:
-* [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
+- [x] [Курс: Bash. Основы командной строки](https://ru.hexlet.io/courses/bash)
 * [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
 
 ## Структуры данных
@@ -40,7 +39,9 @@
 - [ ] Поиск подстроки в строке
 - [ ] Обход и поиск в структурах данных
 
-Прочитать:
+Поможет разобраться:
+- [ ] [Курс: Algorithms от KhanAcademy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Видеолекции: Алгоритмы и структуры данных](https://yandexdataschool.ru/edu-process/courses/algorithms)
 * [Алгоритмы: построение и анализ. Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн](http://www.ozon.ru/context/detail/id/33769775)
 
 ## Паттерны программирования
@@ -55,8 +56,12 @@
 Нужно уметь работать с Git. Создавать репозитории, сливать ветки и разрешать конфликты.
 
 Поможет в этом:
+- [ ] [Курс: Git. Быстрый старт](https://geekbrains.ru/courses/66)
+- [ ] [Курс: How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Try Git](https://try.github.io)
+* [Git How To](https://githowto.com/ru)
 * [Pro Git](https://git-scm.com/book/ru/v2)
-* [Git. Быстрый старт](https://geekbrains.ru/courses/66)
+* [Learn Git Branching](http://learngitbranching.js.org)
 * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 ## Базы данных
@@ -67,8 +72,8 @@
 - [ ] NoSQL БД (MongoDB)
 
 Поможет в этом:
-* [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
-* [Codeacademy. Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [ ] [Курс: Intro to SQL. Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+- [ ] [Курс: Codeacademy. Learn SQL](https://www.codecademy.com/learn/learn-sql)
 * [MongoDB University](https://university.mongodb.com)
 
 ## Веб-серверы и способы взаимодействия
@@ -248,7 +253,6 @@
 * [Codecademy](https://www.codecademy.com)
 * [Code School](https://www.codeschool.com)
 * [Khan Academy](https://www.khanacademy.org)
-* [Learn Code The Hard Way](https://learncodethehardway.org)
 
 ## Другие списки для веб-разработчика
 Здесь будут ресурсы для начинающего веб-разработчика, которые я использовал при составлении этой карты. Тут вы увидите карты развития от других людей, check-lists, awesome-списки и др.
