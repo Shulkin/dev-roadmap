@@ -56,7 +56,7 @@
 Нужно уметь работать с Git. Создавать репозитории, сливать ветки и разрешать конфликты.
 
 Поможет в этом:
-- [ ] [Курс. Git: Быстрый старт](https://geekbrains.ru/courses/66)
+- [x] [Курс. Git: Быстрый старт](https://geekbrains.ru/courses/66)
 - [ ] [Курс. How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Try Git](https://try.github.io)
 * [Pro Git](https://git-scm.com/book/ru/v2)
@@ -95,12 +95,12 @@
 - [ ] Node.js
 
 Поможет в этом:
+- [ ] [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
+- [ ] [Скринкаст Node.js](https://learn.javascript.ru/screencast/nodejs)
+- [ ] [Python. Быстрый старт](https://geekbrains.ru/courses/105)
 * [NodeSchool](https://nodeschool.io)
 * [You Don’t Know Node](https://webapplog.com/you-dont-know-node)
 * [Real-time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
-* [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
-* [Скринкаст Node.js](https://learn.javascript.ru/screencast/nodejs)
-* [Python. Быстрый старт](https://geekbrains.ru/courses/105)
 * [Full Stack Python](https://www.fullstackpython.com)
 
 ## Развертывание проектов
@@ -126,10 +126,10 @@
 - [ ] ECMAScript 2015
 
 Поможет в этом разобраться:
+- [x] [Accelerated JavaScript Training](https://www.udemy.com/javascript-bootcamp-2016)
 * [Выразительный JavaScript](http://eloquentjavascript.net)
 * [Современный учебник JavaScript](https://learn.javascript.ru)
 * [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Accelerated JavaScript Training](https://www.udemy.com/javascript-bootcamp-2016)
 * [JavaScript для профессиональных веб-разработчиков](https://www.ozon.ru/context/detail/id/31257038)
 
 ## Язык разметки HTML
@@ -151,13 +151,13 @@
 - [ ] Media Queries
 - [ ] BEM - Block Element Modifier
 
-Что почитать:
+Что изучить:
+- [x] [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3)
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
 * [Способы организации CSS-кода](https://habrahabr.ru/post/256109)
 * [CSS Modules](https://glenmaddern.com/articles/css-modules)
 * [What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need)
 * [Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-* [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3)
 
 ## Кросс-браузерная вёрстка
 Нужно уметь обеспечить для проекта поддержку старыми версиями браузеров.
@@ -186,7 +186,7 @@
 - [ ] Gulp
 
 Поможет разобраться:
-* [Скринкаст Gulp](https://learn.javascript.ru/screencast/gulp)
+- [ ] [Скринкаст Gulp](https://learn.javascript.ru/screencast/gulp)
 * [Приятная сборка Frontend проекта](https://habrahabr.ru/post/250569)
 * [Что такое Gulp? Сравнение с Grunt и Webpack](https://www.youtube.com/watch?v=uPk6lQoTThE)
 
@@ -240,10 +240,10 @@
 - [ ] webpack
 
 Поможет понять:
+- [ ] [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack)
 * [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern)
 * [Gulp + Browserify: The Everything Post](https://www.viget.com/articles/gulp-browserify-starter-faq)
 * [Using Angular 1.x With ES6 and Webpack](http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack)
-* [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack)
 
 ## Обучение
 Ссылки на онлайн-курсы и платформы для обучения.
