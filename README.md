@@ -83,6 +83,7 @@
 
 Читаем:
 * [Что такое веб-сервер?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+* [What are the canonical answers we've discovered over the years? Serverfault](https://meta.serverfault.com/questions/1986/what-are-the-canonical-answers-weve-discovered-over-the-years)
 
 ## Пакетные менеджеры
 Нужно знать как пользоваться популярными пакетными менеджерами.
@@ -123,6 +124,7 @@
 - [ ] Область видимости переменных и функций
 - [ ] Объекты и прототипное наследование
 - [ ] Замыкания
+- [ ] RegExp
 - [ ] ECMAScript 2015
 
 Поможет в этом разобраться:
@@ -130,6 +132,7 @@
 * [Выразительный JavaScript](http://eloquentjavascript.net)
 * [Современный учебник JavaScript](https://learn.javascript.ru)
 * [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript: Learn Regular Expressions for Beginners](https://hackernoon.com/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
 * [JavaScript для профессиональных веб-разработчиков](https://www.ozon.ru/context/detail/id/31257038)
 
 ## Язык разметки HTML
