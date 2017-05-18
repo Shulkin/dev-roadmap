@@ -9,14 +9,15 @@
 - [ ] Domain Name Service (DNS)
 
 Поможет в этом:
-- [x] [Курс. Операционные системы](https://ru.hexlet.io/courses/operating_systems)
-- [ ] [Курс. Internet 101: How the internet works](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- [x] [Операционные системы](https://ru.hexlet.io/courses/operating_systems)
+- [ ] [Internet 101 от KhanAcademy](https://www.khanacademy.org/computing/computer-science/internet-intro)
 
 ## Linux и работа с командной строкой
 Нужно уметь работать в UNIX-подобных ОС и свободно пользоваться консолью.
 
 Поможет в этом:
-- [x] [Курс. Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
+- [x] [Bash: Основы командной строки](https://ru.hexlet.io/courses/bash)
+- [ ] [Linux Tutorial for Beginners](https://thenewboston.com/videos.php?cat=357)
 * [Искусство командной строки](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md)
 
 ## Структуры данных
@@ -40,8 +41,8 @@
 - [ ] Обход и поиск в структурах данных
 
 Поможет разобраться:
-- [ ] [Курс. Algorithms от KhanAcademy](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [ ] [Видеолекции. Алгоритмы и структуры данных](https://yandexdataschool.ru/edu-process/courses/algorithms)
+- [ ] [Algorithms от KhanAcademy](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [ ] [Видеолекции курса «Алгоритмы и структуры данных»](https://yandexdataschool.ru/edu-process/courses/algorithms)
 * [Алгоритмы: построение и анализ. Томас Кормен, Чарльз Лейзерсон, Рональд Ривест, Клиффорд Штайн](http://www.ozon.ru/context/detail/id/33769775)
 
 ## Паттерны программирования
@@ -56,8 +57,8 @@
 Нужно уметь работать с Git. Создавать репозитории, сливать ветки и разрешать конфликты.
 
 Поможет в этом:
-- [x] [Курс. Git: Быстрый старт](https://geekbrains.ru/courses/66)
-- [ ] [Курс. How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- [x] [Git. Быстрый старт](https://geekbrains.ru/courses/66)
+- [ ] [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Try Git](https://try.github.io)
 * [Pro Git](https://git-scm.com/book/ru/v2)
 * [Learn Git Branching](http://learngitbranching.js.org)
@@ -71,8 +72,8 @@
 - [ ] NoSQL БД (MongoDB)
 
 Поможет в этом:
-- [ ] [Курс. Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
-- [ ] [Курс. Learn SQL от Codecademy](https://www.codecademy.com/learn/learn-sql)
+- [ ] [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+- [ ] [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 * [MongoDB University](https://university.mongodb.com)
 
 ## Веб-серверы и способы взаимодействия
@@ -81,7 +82,9 @@
 - [ ] Apache
 - [ ] nginx
 
-Читаем:
+Читаем и изучаем:
+- [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+- [ ] [Apache Web Server: Administration](https://www.lynda.com/Apache-tutorials/Practical-Apache-Web-Server-Administration/164983-2.html)
 * [Что такое веб-сервер?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 * [What are the canonical answers we've discovered over the years? Serverfault](https://meta.serverfault.com/questions/1986/what-are-the-canonical-answers-weve-discovered-over-the-years)
 
@@ -129,6 +132,7 @@
 
 Поможет в этом разобраться:
 - [x] [Accelerated JavaScript Training](https://www.udemy.com/javascript-bootcamp-2016)
+- [ ] [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 * [Выразительный JavaScript](http://eloquentjavascript.net)
 * [Современный учебник JavaScript](https://learn.javascript.ru)
 * [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -210,6 +214,7 @@
 - [ ] CORS
 
 Разобраться:
+- [ ] [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 * [HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 
 ## JavaScript библиотеки
@@ -219,7 +224,8 @@
 - [ ] Babel
 
 Поможет разобраться:
-* [Try jQuery](https://www.codeschool.com/courses/try-jquery)
+- [ ] [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
+- [ ] [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 * [Learn jQuery](http://learn.jquery.com)
 
 ## JavaScript фреймворки
@@ -251,6 +257,7 @@
 ## Обучение
 Ссылки на онлайн-курсы и платформы для обучения.
 * [Udemy](https://www.udemy.com)
+* [Udacity](https://www.udacity.com)
 * [Coursera](https://ru.coursera.org)
 * [Codecademy](https://www.codecademy.com)
 * [CodeSchool](https://www.codeschool.com)
